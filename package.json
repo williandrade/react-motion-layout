@@ -9,6 +9,10 @@
     "dev": "rollup -c -w",
     "build": "rollup -c"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williandrade/react-motion-layout.git"
+  },
   "author": "Jefferson Licet <jeffersonlicet@gmail.com>",
   "license": "MIT",
   "dependencies": {
